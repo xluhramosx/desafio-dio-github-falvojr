@@ -1,0 +1,15 @@
+Links Uteis: 
+https://github.com/dotnet/core/blob/main/Documentation/core-repos.md
+https://docs.microsoft.com/pt-br/dotnet/
+https://dotnetfoundation.org/
+
+O que é: Framework livre e de código aberto para os sistemas operacionais Windows, Linux e macOS.
+
+Linguagem de Programação:
+-C#
+-F#
+-Visual Basic
+
+
+ASP.NET
+O que é: Framework que estende .NET para a criação de web apps.

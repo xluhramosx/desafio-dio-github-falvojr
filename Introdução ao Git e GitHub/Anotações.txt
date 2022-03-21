@@ -1,0 +1,19 @@
+Links úteis: https://git-scm.com/
+https://comandosgit.github.io/
+
+O que é o GIT: Sistema de controle usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+Criador: Linus Torvals (LINUX)
+
+- Outras Opções: BitKeeper, CVS
+
+Comandos:
+-cd
+-dir (listar)
+-mkdir (criar um diretorio)
+-del/rmdir (remove um diretorio)
+
+
+GITHUB
+O que? :plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo
+
+-Outras opções: Gitbucket, GitLab

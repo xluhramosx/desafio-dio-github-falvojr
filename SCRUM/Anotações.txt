@@ -1,0 +1,6 @@
+O que é: método de trabalho realizado a partir de pequenos ciclos de atividades dentro de um projeto. Cada ciclo de atividade é planejado previamente e se chama Sprint, composto por um período de tempo predefinido em que as tarefas devem ser realizadas pela equipe.
+
+Três pilares:
+Transparência.
+Inspeção.
+Adaptação.
