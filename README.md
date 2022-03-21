@@ -1,2 +1,2 @@
 # desafio-dio-github-falvojr
-Desafio de projetosobre Git/Github 
+Desafio de projeto sobre Git/Github 
